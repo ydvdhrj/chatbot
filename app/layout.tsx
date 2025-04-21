@@ -42,19 +42,19 @@ export default function RootLayout({
         <link rel="shortcut icon" href="/images/favicon.ico" />
         <meta
           name="description"
-          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/langchain-ai/langchain-nextjs-template!"
+          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/ydvdhrj/chatbot!"
         />
         <meta property="og:title" content="LangChain + Next.js Template" />
         <meta
           property="og:description"
-          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/langchain-ai/langchain-nextjs-template!"
+          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/ydvdhrj/chatbot!"
         />
         <meta property="og:image" content="/images/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="LangChain + Next.js Template" />
         <meta
           name="twitter:description"
-          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/langchain-ai/langchain-nextjs-template!"
+          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/ydvdhrj/chatbot!"
         />
         <meta name="twitter:image" content="/images/og-image.png" />
       </head>
@@ -91,7 +91,7 @@ export default function RootLayout({
               <div className="flex justify-center">
                 <Button asChild variant="outline" size="default">
                   <a
-                    href="https://github.com/langchain-ai/langchain-nextjs-template"
+                    href="https://github.com/ydvdhrj/chatbot"
                     target="_blank"
                   >
                     <GithubIcon className="size-3" />
